@@ -2,7 +2,7 @@
 
 1. To setup database and create tables<br/>
 -open setup folder<br/>
--open index.php<br/>
+-open index.php file<br/>
 -enter required fields to create database and add an admin
 
 2. To establish connection<br/>
